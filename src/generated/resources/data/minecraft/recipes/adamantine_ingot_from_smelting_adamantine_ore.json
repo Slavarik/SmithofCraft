@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "adamantine_ingot",
+  "ingredient": {
+    "item": "lurkmod:adamantine_ore"
+  },
+  "result": "lurkmod:adamantine_ingot"
+}

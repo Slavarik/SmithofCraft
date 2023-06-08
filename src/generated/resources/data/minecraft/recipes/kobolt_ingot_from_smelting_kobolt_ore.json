@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "kobolt_ingot",
+  "ingredient": {
+    "item": "lurkmod:kobolt_ore"
+  },
+  "result": "lurkmod:kobolt_ingot"
+}

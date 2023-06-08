@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lurkmod:titan_chestplate"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_titan_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "lurkmod:titan_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_titan_ingot",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lurkmod:titan_chestplate"
+    ]
+  }
+}

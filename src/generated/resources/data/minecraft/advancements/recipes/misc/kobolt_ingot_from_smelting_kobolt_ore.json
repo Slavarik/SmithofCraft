@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_kobolt_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "lurkmod:kobolt_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:kobolt_ingot_from_smelting_kobolt_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_kobolt_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:kobolt_ingot_from_smelting_kobolt_ore"
+    ]
+  }
+}

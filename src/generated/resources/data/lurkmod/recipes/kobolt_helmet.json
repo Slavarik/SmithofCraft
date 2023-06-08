@@ -1,0 +1,17 @@
+{
+  "type": "lurkmod:mod_smithing",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "lurkmod:kobolt_ingot"
+    }
+  },
+  "pattern": [
+    "III",
+    "I I",
+    "   "
+  ],
+  "result": {
+    "item": "lurkmod:kobolt_helmet"
+  }
+}

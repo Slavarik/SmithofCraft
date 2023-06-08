@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "lurkmod:item/mithrill_hoe"
+  }
+}

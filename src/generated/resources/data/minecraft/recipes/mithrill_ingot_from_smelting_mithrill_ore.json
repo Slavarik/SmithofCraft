@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "mithrill_ingot",
+  "ingredient": {
+    "item": "lurkmod:mithrill_ore"
+  },
+  "result": "lurkmod:mithrill_ingot"
+}

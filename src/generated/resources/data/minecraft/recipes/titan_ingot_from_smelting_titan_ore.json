@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "titan_ingot",
+  "ingredient": {
+    "item": "lurkmod:titan_ore"
+  },
+  "result": "lurkmod:titan_ingot"
+}

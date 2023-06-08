@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:titan_ingot_from_smelting_titan_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_titan_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "lurkmod:titan_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_titan_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:titan_ingot_from_smelting_titan_ore"
+    ]
+  }
+}

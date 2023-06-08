@@ -1,0 +1,17 @@
+{
+  "type": "lurkmod:mod_smithing",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "lurkmod:adamantine_ingot"
+    }
+  },
+  "pattern": [
+    "III",
+    "I I",
+    "   "
+  ],
+  "result": {
+    "item": "lurkmod:adamantine_helmet"
+  }
+}

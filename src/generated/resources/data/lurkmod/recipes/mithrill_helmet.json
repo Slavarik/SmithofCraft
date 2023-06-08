@@ -1,0 +1,17 @@
+{
+  "type": "lurkmod:mod_smithing",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "lurkmod:mithrill_ingot"
+    }
+  },
+  "pattern": [
+    "III",
+    "I I",
+    "   "
+  ],
+  "result": {
+    "item": "lurkmod:mithrill_helmet"
+  }
+}

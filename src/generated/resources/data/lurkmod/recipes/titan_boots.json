@@ -1,0 +1,17 @@
+{
+  "type": "lurkmod:mod_smithing",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "lurkmod:titan_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    "I I",
+    "I I"
+  ],
+  "result": {
+    "item": "lurkmod:titan_boots"
+  }
+}

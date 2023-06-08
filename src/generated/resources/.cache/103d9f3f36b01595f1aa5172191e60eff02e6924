@@ -1,0 +1,9 @@
+// 1.19.3	2023-06-08T20:39:39.56066	Registries
+0bc7ef6286c60570f067ca100771613575a7c9bf data/lurkmod/worldgen/configured_feature/adamantine_ore.json
+eabc52b62a7f34f2107c2a4b5adc8cf02565d7ee data/lurkmod/worldgen/configured_feature/kobolt_ore.json
+2270956c5ee1f4101584510a3b4adea1978ab5c0 data/lurkmod/worldgen/configured_feature/mithrill_ore.json
+bc2d529acca336e8be560e4d5bd2af9556b524a1 data/lurkmod/worldgen/configured_feature/titan_ore.json
+f97850df87a13ae37c9225d86f64943b1d6d5fa1 data/lurkmod/worldgen/placed_feature/adamantine_placed.json
+123b005cc4eb26845bbaa5347e5b77612247b091 data/lurkmod/worldgen/placed_feature/kobolt_placed.json
+71070bf75c0626aaa7f9e4c86fdfba4eb8a588b7 data/lurkmod/worldgen/placed_feature/mithrill_placed.json
+a8dbeac558139f114879c01f7e0a96184a923089 data/lurkmod/worldgen/placed_feature/titan_placed.json

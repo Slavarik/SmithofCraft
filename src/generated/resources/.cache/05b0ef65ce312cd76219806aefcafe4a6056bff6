@@ -1,0 +1,13 @@
+// 1.19.3	2023-05-28T20:53:36.9273362	Block States: lurkmod
+fea2af65e7ff66e48f87d67c88bf774c3ddc4ab9 assets/lurkmod/blockstates/adamantine_ore.json
+d716d08bf83309c7aa1e5a45ef53244418107768 assets/lurkmod/blockstates/kobolt_ore.json
+9f5706088adcdcfc4cf398a303da9e3c5e694583 assets/lurkmod/blockstates/mithrill_ore.json
+e1dcc9b63eab1bcbd41952d1e530a45b58d0a920 assets/lurkmod/blockstates/titan_ore.json
+b98adb208232f1897c02507bf3a7d8ab0d849fb9 assets/lurkmod/models/block/adamantine_ore.json
+ba576bd415172d1ba5aa75778585945347417a7e assets/lurkmod/models/block/kobolt_ore.json
+de0870a68e80bb1ef21fcce3c3a044f5ce7405a4 assets/lurkmod/models/block/mithrill_ore.json
+8016bc9b1aa360c95c85fc9b88b5585a84ac604e assets/lurkmod/models/block/titan_ore.json
+c78fd6984b0c0690c29fa2e85ecde648c9749e06 assets/lurkmod/models/item/adamantine_ore.json
+f84b991ae26aa4f64bcdc6e3c7e31f440327d04b assets/lurkmod/models/item/kobolt_ore.json
+e62fcfb0039d711a6ae4d8f8e9a33bbba75eddec assets/lurkmod/models/item/mithrill_ore.json
+6b9bcce4cf69b59995731a54c83568a360a91097 assets/lurkmod/models/item/titan_ore.json

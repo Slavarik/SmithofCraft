@@ -1,0 +1,20 @@
+{
+  "type": "lurkmod:mod_smithing",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "lurkmod:mithrill_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " I ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "lurkmod:mithrill_shovel"
+  }
+}

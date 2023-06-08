@@ -1,0 +1,20 @@
+{
+  "type": "lurkmod:mod_smithing",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    " S ",
+    "G G",
+    " G "
+  ],
+  "result": {
+    "item": "lurkmod:diamond_ring"
+  }
+}

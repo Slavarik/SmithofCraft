@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lurkmod:item/adamantine_ingot"
+  }
+}

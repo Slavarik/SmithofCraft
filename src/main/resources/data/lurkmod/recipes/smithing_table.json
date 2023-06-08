@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:anvil"
+    },
+    "W": {
+      "item": "minecraft:crafting_table"
+    },
+    "P": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PAP",
+    "PWP"
+  ],
+  "result": {
+    "item": "lurkmod:smithing_table"
+  }
+}
